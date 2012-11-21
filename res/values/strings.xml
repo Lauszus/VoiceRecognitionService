@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">VoiceRecognitionDemo</string>
+    <string name="buttonText">Click the button and start speaking</string>
+    <string name="buttonList">Click Me to just fill the list!</string>
+    <string name="buttonIntent">Click Me to start an intent!</string>
+</resources>
